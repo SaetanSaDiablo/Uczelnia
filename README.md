@@ -1,0 +1,2 @@
+# Uczelnia
+Skrypty Uczelniane
